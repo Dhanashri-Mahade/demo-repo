@@ -236,11 +236,9 @@ This flow is visible clearly in your SSRpro example files.
 
 ---
 
+---
 
-
-
-Here you go senior — a **clean, simple, beginner-friendly script** to explain FastAPI + Flask basics to interns.
-Use this exact flow while speaking; they’ll understand everything very clearly.
+ #  IMP :  Code  EXplaination
 
 ---
 
